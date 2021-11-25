@@ -1,5 +1,5 @@
 # Bruno Rodrigues Souza
-Brasileiro, Solteiro, 20 anos
+Brasileiro, Solteiro, 22 anos
 Rio de Janeiro, RJ - Brasil
 
 PRINCIPAIS QUALIFICAÇÕES
@@ -21,10 +21,6 @@ IDIOMAS
 ● Espanhol - Nível: Básico
 
 EXPERIÊNCIA PROFISSIONAL
-Uber
-Cargo: Motorista
-Período: Julho de 2019 à agosto de 2019
-Descrição: Transporte de passageiros
 
 Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
 Disciplina: Introdução à Ciência da Informação
