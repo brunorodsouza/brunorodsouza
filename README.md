@@ -26,12 +26,11 @@
   - 💭 Possuo muitos sonhos, um deles é me profissionalizar enquanto desenvolvedor, o outro é constituir familia e ter um lar grande e bem barulhento.🍼🐕🐈☘️<br>
 </p>
 
-<div><br>
+<div align=center style="display: inline_block"><br>
   <a href="https://t.me/brunorodsouza" target="_blank"><img align="center" alt="Bruno-Telegram" target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/5521985812731?text=Ola%2c+eu+vim+pelo+GitHub+e+gostaria+de+saber+um+pouco+mais+sobre+seu+trabalho." target="_blank"><img align="center" alt="Bruno-Whatsapp" target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:bruno.rodriguesouza1@gmail.com" target="_blank"><img align="center" alt="Bruno-Gmail" target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:brunorodrigue.souza1@outlook.com" target="_blank"><img align="center" alt="Bruno-Outlook" target="_blank" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="" target="_blank"><img align="center" alt="Bruno-Discord" target="_blank" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/brunorodriguesouza/" target="_blank"><img align="center" alt="Bruno-LinkedIn" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/bruno_dwarf/" target="_blank"><img align="center" alt="Bruno-Instagram" target="_blank" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
